@@ -1,0 +1,22 @@
+{
+  "name": "test-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlantm/test-software.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlantm/test-software/issues"
+  },
+  "homepage": "https://github.com/jlantm/test-software#readme",
+  "dependencies": {
+    "test-dependency": "git://github.com/jlantm/test-dependency.git"
+  }
+}
